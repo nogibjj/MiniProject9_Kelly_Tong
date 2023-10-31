@@ -11,6 +11,10 @@ def main():
     print(sum_data)
     box_visual(df)
 
+def data(dataset):
+    result = pd.read_csv(dataset)
+    return result
+
 
 if __name__ == "__main__":
     main()
