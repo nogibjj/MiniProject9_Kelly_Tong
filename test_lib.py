@@ -6,6 +6,7 @@ def test_desc_stats():
     path = "https://raw.githubusercontent.com/nogibjj/MiniProject9_Kelly_Tong/main/test_Auto.csv"
     my_df = pd.read_csv(path)
     summary = desc_stats(my_df)
+    return summary
 
 def test_box_visuak():
     path = (
