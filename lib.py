@@ -2,7 +2,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import warnings
-import numpy as np
 
 def desc_stats(data):  
     # Convert the dataset to a Pandas DataFrame
