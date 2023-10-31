@@ -1,5 +1,5 @@
 from lib import desc_stats, box_visual
-
+import pandas as pd
 
 def main():
     path = (
