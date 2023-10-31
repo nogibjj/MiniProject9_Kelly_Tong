@@ -12,7 +12,7 @@ def test_desc_stats():
     assert median == summary.loc["50%", "Weight"], "Median test failed"
 
 def test_box_visuak():
-    data_path = (
+    path = (
         "https://raw.githubusercontent.com/nogibjj/MiniProject9_Kelly_Tong/main/test_Auto.csv"
     )
     df = pd.read_csv(path, sep=";")
