@@ -1,4 +1,4 @@
-# MiniProject9_Kelly_Tong
+# MiniProject9
 This is a repository for IDS 706 mini project week 9 assignment. 
 
 ### Purpose
