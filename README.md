@@ -6,10 +6,12 @@ The purpose of this repository is to set up a cloud Jupyter notebook on Google C
 Data statistics and visualization tasks are performed in the Jupyter notebook as well as in python fils in the Github repository. 
 
 ### Github Actions Workflows 
-Cloud Jupyter notebook on Google Colab can be accessed through: 
 [![CI](https://github.com/nogibjj/MiniProject9_Kelly_Tong/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/MiniProject9_Kelly_Tong/actions/workflows/cicd.yml)
 
 ### Google Colab
+
+Cloud Jupyter notebook on Google Colab can be accessed through: 
+
 [Colab Link](https://colab.research.google.com/drive/1-TI-YP-ujJUFgtK2EprQK5oKQwW7qgJg?usp=sharing)
 
 ### Preparation
